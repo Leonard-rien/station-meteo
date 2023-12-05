@@ -8,7 +8,7 @@ Le but de ce projet est de mesurer et de donner :
 - L'humidité
 - La pression atmosphérique
 à partir des capteurs Arduino suivants :
-  - DHT11 (température intérieure)
+DHT11 (température intérieure)
     
   - 
   
